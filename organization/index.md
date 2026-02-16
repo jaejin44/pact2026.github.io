@@ -14,7 +14,7 @@ show_sidebar: true
 
 #### Program Chairs
 
-- **Jaejin Lee**, Seoul National University
+- [Jaejin Lee](https://sites.google.com/view/jaejinlee), Seoul National University
 
 #### Workshop/Tutorial Chairs
 
